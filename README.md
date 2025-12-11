@@ -1,3 +1,6 @@
+COSM PROJECT
+
+
 Car Price Prediction Using Statistical Methods – Project Overview (Student Version)
 => Introduction
 
@@ -128,8 +131,14 @@ This shows the model fits the data well and predictions are quite accurate
 
 Project team:
 Amolika:24XVIM0528
+
 Paridhi:24XV1M0533
+
 Mahathi:24XV1M0558
+
 Yashaswini:24XV1M0559
+
 Shivani:24XV1M6624
+
 Chiruhas:24XV1M0511
+
